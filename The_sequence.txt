@@ -8,3 +8,4 @@
 +Num 8: The pointer;(maybe)
 +Num 9: Streaming files;
 +Num 10: The graphics;
+(And remember to learn how to comment like a good guy^^)
