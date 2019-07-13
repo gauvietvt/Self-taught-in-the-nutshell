@@ -1,0 +1,10 @@
++Num 1: The basic structure of the program;
++Num 2: The variables,the constant and the operator;
++Num 3: Input/Output;
++Num 4: The If-else statement and the boolean variables;
++Num 5: The loops;
++Num 6: The arrays;
++Num 7: Funtions;
++Num 8: The pointer;(maybe)
++Num 9: Streaming files;
++Num 10: The graphics;
